@@ -1,6 +1,7 @@
 # New-Keynesian-Model - Dynare for Matlab Code 
-# Model adapted from Jorid Gali - Monetary Policy, Inflation, and the Business Cycle
-
+# Model adapted from 
+# Jorid Gali  Monetary Policy, Inflation, and the Business Cycle
+# and Econ324 - Advanced Macroeconomics - Roy Zilberman
 
 // Endogenous Variables
 
